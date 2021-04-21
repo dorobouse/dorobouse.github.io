@@ -1,0 +1,25 @@
+title: ぽよぽよ
+remote_theme: aterenin/minima-reboot
+lang: ja
+author: "author: まさとし"
+description: > # this means to ignore newlines until "show_excerpts:"
+  (っ´ω｀ｃ)
+show_excerpts: false
+header_pages:
+  - docs/about.md
+footer_icons:
+  - username: twitter/dorobouse
+    url: https://twitter.com/dorobouse
+    
+# Minima date format
+# refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
+minima_reboot:
+  lang: ja
+  date_format: "%b %-d, %Y"
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
+
+kramdown:
+  hard_wrap: true
