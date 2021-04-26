@@ -2,7 +2,7 @@
 layout: post
 title: "anyenvからnodenvをインストールする"
 date: 2021-04-26 23:00:00 +0900
-categories: brew, node, npm, yarn
+categories: brew node npm yarn
 tags: 
     - brew
     - node
